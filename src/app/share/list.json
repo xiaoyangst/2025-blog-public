@@ -8,5 +8,15 @@
 			"公考"
 		],
 		"stars": 5
+	},
+	{
+		"name": "Zlibrary",
+		"logo": "blob:https://xy-tau.vercel.app/600906d1-8598-4a62-923a-1a62827ca273",
+		"url": "https://zlib.by/",
+		"description": "Zlibrary 全网最大最良心的免费图书馆，多次被通缉，却因为民心所向，在大家的支持下存活着",
+		"tags": [
+			"图书搜索"
+		],
+		"stars": 5
 	}
 ]
