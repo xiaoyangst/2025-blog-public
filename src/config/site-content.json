@@ -38,7 +38,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "candy@xy",
+			"value": "xy@candy",
 			"label": "",
 			"order": 1
 		}
