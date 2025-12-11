@@ -45,40 +45,40 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -842,
-		"offsetY": -224,
+		"offsetX": -841,
+		"offsetY": -264,
 		"enabled": true
 	},
 	"shareCard": {
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": -713,
-		"offsetY": -36,
+		"offsetX": 373,
+		"offsetY": 121,
 		"enabled": true
 	},
 	"articleCard": {
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": -735,
-		"offsetY": 168,
+		"offsetX": 372,
+		"offsetY": -75,
 		"enabled": true
 	},
 	"writeButtons": {
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": -687,
-		"offsetY": -135,
+		"offsetX": 595,
+		"offsetY": 246,
 		"enabled": true
 	},
 	"navCard": {
 		"width": 280,
 		"height": 434,
 		"order": 2,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -651,
+		"offsetY": -151,
 		"enabled": false
 	},
 	"likePosition": {
