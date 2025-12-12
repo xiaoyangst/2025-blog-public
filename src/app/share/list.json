@@ -28,5 +28,16 @@
 			"资源"
 		],
 		"stars": 5
+	},
+	{
+		"name": "equb在线阅读器",
+		"logo": "https://www.flowoss.com/icons/512.png",
+		"url": "https://www.flowoss.com/zh-CN",
+		"description": "免费开源项目，还支持云存储",
+		"tags": [
+			"阅读器",
+			"软件"
+		],
+		"stars": 5
 	}
 ]
