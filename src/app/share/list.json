@@ -59,5 +59,15 @@
 			"古籍"
 		],
 		"stars": 5
+	},
+	{
+		"name": "PixPin",
+		"logo": "https://pixpin.cn/images/logo/1024.png",
+		"url": "https://pixpin.cn/",
+		"description": "截图工具，大部分功能免费",
+		"tags": [
+			"软件"
+		],
+		"stars": 5
 	}
 ]
