@@ -99,5 +99,15 @@
 			"在线工具"
 		],
 		"stars": 5
+	},
+	{
+		"name": "公务员真题",
+		"logo": "https://www.xingguanggongkao.com/statics/images/pc/logo.png",
+		"url": "https://www.xingguanggongkao.com/XingQuestion/paperList.html",
+		"description": "行测+申论历年真题，免费下载",
+		"tags": [
+			"资料"
+		],
+		"stars": 5
 	}
 ]
