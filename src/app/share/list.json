@@ -109,5 +109,15 @@
 			"资料"
 		],
 		"stars": 5
+	},
+	{
+		"name": "日本老师",
+		"logo": "blob:https://xy-tau.vercel.app/123e9904-b5c4-4a8c-ab87-f81b3ee7480e",
+		"url": "https://avgood.com/",
+		"description": "学会爱惜自己",
+		"tags": [
+			"视频"
+		],
+		"stars": 5
 	}
 ]
