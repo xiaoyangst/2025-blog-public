@@ -111,18 +111,8 @@
 		"stars": 5
 	},
 	{
-		"name": "日本老师",
-		"logo": "/images/share/e3b531ca19bb48d2.png",
-		"url": "https://avgood.com/",
-		"description": "学会爱惜自己",
-		"tags": [
-			"视频"
-		],
-		"stars": 5
-	},
-	{
 		"name": "马克思主义文库",
-		"logo": "blob:https://xy-tau.vercel.app/0c7ac00c-aece-442d-8ea0-35d11ecb8c48",
+		"logo": "/images/share/681170447637a605.jpg",
 		"url": "https://www.marxists.org/chinese/index.html",
 		"description": "马克思主义者相关代表文章",
 		"tags": [
