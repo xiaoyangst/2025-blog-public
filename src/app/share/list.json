@@ -119,5 +119,15 @@
 			"书籍"
 		],
 		"stars": 5
+	},
+	{
+		"name": "爱思想",
+		"logo": "https://www.aisixiang.com/images/erweima_app.png",
+		"url": "https://www.aisixiang.com/",
+		"description": "各种学术思想汇集",
+		"tags": [
+			"网站"
+		],
+		"stars": 5
 	}
 ]
