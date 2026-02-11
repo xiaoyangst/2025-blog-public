@@ -139,5 +139,15 @@
 			"网站"
 		],
 		"stars": 5
+	},
+	{
+		"name": "frame0",
+		"logo": "https://frame0.app/images/logo.svg",
+		"url": "https://frame0.app/",
+		"description": "实现APP等软件草图绘制",
+		"tags": [
+			"绘图"
+		],
+		"stars": 5
 	}
 ]
